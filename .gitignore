@@ -28,6 +28,8 @@ lerna-debug.log*
 .yarn/build-state.yml
 .yarn/install-state.gz
 
+.yarnrc.yml
+
 # Build folders
 build/
 out/
